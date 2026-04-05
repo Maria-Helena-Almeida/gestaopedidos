@@ -8,9 +8,6 @@ Este projeto foi desenvolvido no âmbito da unidade curricular **UC00609**, com 
 
 ## 📸 Preview
 
-
-## 📸 Preview
-
 [🎥 Clique aqui para ver o vídeo de demonstração](docs/teste_gestaopedidos.webm)
 
 ---
